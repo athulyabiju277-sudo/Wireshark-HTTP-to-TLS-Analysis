@@ -170,25 +170,25 @@ tcp.port == 443
 
 ## HTTP GET Request
 
-![HTTP Packet](/http-get.png)
+![HTTP Packet](/http-get.png.jpeg)
 
 ---
 
 ## DNS Query Analysis
 
-![DNS Analysis](/dns-analysis.png)
+![DNS Analysis](/dns-analysis.png.jpeg)
 
 ---
 
 ## TLS 1.3 Handshake
 
-![TLS Handshake](/tls-clienthello.png)
+![TLS Handshake](/tls-clienthello.png.jpeg)
 
 ---
 
 ## TCP Header Analysis
 
-![TCP Analysis](/tcp-analysis.png)
+![TCP Analysis](/tcp-analysis.png.jpeg)
 
 ---
 
