@@ -170,25 +170,25 @@ tcp.port == 443
 
 ## HTTP GET Request
 
-![HTTP Packet](screenshots/http-get.png)
+![HTTP Packet](http-get.png)
 
 ---
 
 ## DNS Query Analysis
 
-![DNS Analysis](screenshots/dns-analysis.png)
+![DNS Analysis](dns-analysis.png)
 
 ---
 
 ## TLS 1.3 Handshake
 
-![TLS Handshake](screenshots/tls-clienthello.png)
+![TLS Handshake](tls-clienthello.png)
 
 ---
 
 ## TCP Header Analysis
 
-![TCP Analysis](screenshots/tcp-analysis.png)
+![TCP Analysis](tcp-analysis.png)
 
 ---
 
@@ -259,8 +259,3 @@ The project strengthened foundational cybersecurity skills in protocol analysis,
 
 ---
 
-# Author
-
-Athulya B
-
-Aspiring SOC Analyst | Cybersecurity Enthusiast | Network Traffic Analysis Learner
